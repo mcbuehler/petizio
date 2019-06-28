@@ -1,5 +1,7 @@
 # petizio
 
+Petizio is the winning submission for the eGovernment vertical at the [Swiss Blockchain Hackathon 2019](https://hackathon.trustsquare.ch/portfolio/egovernment/).
+
 Petizio is a petition creating and voting app that allows users to vote pseudo-anonymously after veryfing themselves through government identification. Citizens can then create new petitions and vote through the app without the need of exposing their identity in a way that each vote gets count once.  
 
 ## Problem Description
