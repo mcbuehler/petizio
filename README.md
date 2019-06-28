@@ -48,4 +48,4 @@ To coclude Petizio offers three strengths;
 * Immutability: Nobody can tamper with votes once they have been written to the blockchain.  
 * Anonymity: When the issues are being voted for, it is not known who supports the ideas, people can vote without revealing their identity.  
   
-The most important part is thatpetitions create a low-risk, high-reward environment that allows the general public to familiarize themselves with the idea of blockchain in governmental processes. This allows the dissemination of technology and creates the building blocks for a e-voting system.
+The most important part is that petitions create a low-risk, high-reward environment that allows the general public to familiarize themselves with the idea of blockchain in governmental processes. This allows the dissemination of technology and creates the building blocks for a e-voting system.
